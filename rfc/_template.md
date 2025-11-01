@@ -4,7 +4,6 @@
 | -------------- | ---------------------------------------------------------------- |
 | LEP            | 0000: Title                                                      |
 | Author         | name or handle                                                   |
-| Status         | Draft \| Accepted \| Final \| Superseded \| Rejected \| Deferred |
 | Type           | Informational \| Standards Track \| Process \| Meta              |
 | Created        | YYYY-MM-DD                                                       |
 | Depends on     | LEP-0000, LEP-XXXX...                                            |
