@@ -15,3 +15,8 @@ governance guidelines.
 
 1. Read `LEP-0001`.
 2. Follow the instructions in that document to draft and submit your proposal.
+
+
+## LEP index
+
+[LEP-0001](./rfc/lep-0001%20-%20about%20leps.md): About LEPs
