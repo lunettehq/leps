@@ -19,4 +19,5 @@ governance guidelines.
 
 ## LEP index
 
-[LEP-0001](./rfc/lep-0001%20-%20about%20leps.md): About LEPs
+[LEP-0001](./rfc/lep-0001-about-leps.md): About LEPs
+[LEP-0002](./rfc/lep-0002-framework-vision): Framework Vision
